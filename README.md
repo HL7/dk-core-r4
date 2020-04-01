@@ -11,3 +11,5 @@ Artifacts found in this repository should be treated as unstable, under continou
 
 # TL;DR
 ```every odd week on mondays 15:00 - 16:00 @```https://rooms.medcom.dk/webapp/conference/hl7@rooms.medcom.dk - NO PIN!
+
+# THIS REPO IS DEPRECATED -  PLEASE GO TO https://github.com/hl7dk/dk-core INSTEAD
