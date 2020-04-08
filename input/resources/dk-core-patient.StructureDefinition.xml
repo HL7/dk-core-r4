@@ -89,7 +89,7 @@
       <sliceName value="municipalityCode" />
       <type>
         <code value="Extension" />
-        <profile value="http://hl7.org/fhir/dk/core/StructureDefinition/dk-core-municipalityCodes" />
+        <profile value="http://hl7.dk/fhir/core/StructureDefinition/dk-core-municipalityCodes" />
       </type>
     </element>
     <element id="Patient.address.extension:regionalSubDivisionCodes">
@@ -97,7 +97,7 @@
       <sliceName value="regionalSubDivisionCodes" />
       <type>
         <code value="Extension" />
-        <profile value="http://hl7.org/fhir/dk/core/StructureDefinition/dk-core-RegionalSubDivisionCodes" />
+        <profile value="http://hl7.dk/fhir/core/StructureDefinition/dk-core-RegionalSubDivisionCodes" />
       </type>
     </element>
     <element id="Patient.maritalStatus.coding.code">
