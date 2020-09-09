@@ -1,6 +1,6 @@
 <ValueSet xmlns="http://hl7.org/fhir">
-  <id value="municipality-codes"/>
-  <url value="http://hl7.org/fhir/dk/core/ValueSet/dk-core-MunicipalityCodes"/>
+  <id value="dk-core-MunicipalityCodes"/>
+  <url value="http://hl7.dk/fhir/core/ValueSet/dk-core-MunicipalityCodes"/>
   <version value="latest"/>
   <name value="MunicipalityCodes"/>
   <status value="draft"/>

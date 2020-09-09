@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValueSet xmlns="http://hl7.org/fhir">
   <id value="dk-crn-identifier-system" />
-  <url value="http://hl7.org/fhir/ValueSet/dk-crn-identifier-system" />
+  <url value="http://hl7.dk/fhir/ValueSet/dk-cpr-identifier-system" />
   <version value="4.0.1" />
   <name value="DK Valid Identifier" />
-  <title value="CRN Identifier" />
+  <title value="CPR Identifier" />
   <status value="active" />
   <experimental value="false" />
   <date value="2019-11-01T09:29:23+11:00" />
   <description value="This value set defines the set of codes that can be used to identify the danish CPR system." />
   <compose>
     <include>
-      <system value="http://hl7.org/fhir/CodeSystem/dk-crn-identifier-system"/>
+      <system value="http://hl7.dk/fhir/CodeSystem/dk-cpr-identifier-system"/>
       <concept>
         <display value="OID representation of CPR" />
         <code value="urn:oid:1.2.208.176.1.2" />

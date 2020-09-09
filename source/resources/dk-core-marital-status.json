@@ -13,7 +13,7 @@
         "valueSet": ["http://hl7.org/fhir/ValueSet/marital-status"]
       },
       {
-        "system": "http://hl7.dk/fhir/CodeSystem/dk-marital-status",
+        "system": "http://hl7.dk/fhir/core/CodeSystem/dk-marital-status",
         "concept": [
           {
             "code": "P",
@@ -42,6 +42,6 @@
     ]
   },
   "experimental": false,
-  "url": "http://hl7.dk/fhir/ValueSet/dk-marital-status",
+  "url": "http://hl7.dk/fhir/core/ValueSet/dk-marital-status",
   "version": "4.0.1"
 }

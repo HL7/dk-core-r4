@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
   <id value="dk-core-patient" />
-  <url value="http://hl7.org/fhir/dk/core/StructureDefinition/dk-core-patient" />
+  <url value="http://hl7.dk/fhir/core/StructureDefinition/dk-core-patient" />
   <version value="1.0.0" />
   <name value="DkCorePatient" />
   <title value="Danish Core Patient Profile" />

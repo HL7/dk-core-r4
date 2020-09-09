@@ -1,6 +1,6 @@
 <NamingSystem xmlns="http://hl7.org/fhir">
-  <id value="sor"/>
-  <url value="http://hl7.org/fhir/dk/core/NamingSystem/dk-core-sor"/>
+  <id value="dk-core-sor"/>
+  <url value="http://hl7.dk/fhir/core/NamingSystem/dk-core-sor"/>
   <name value="Sundhedsvæsenets Organisationsregister (SOR)"/>
   <status value="active"/>
   <kind value="identifier"/>

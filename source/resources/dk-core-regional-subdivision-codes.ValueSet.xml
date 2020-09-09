@@ -1,6 +1,6 @@
 <ValueSet xmlns="http://hl7.org/fhir">
-    <id value="regional-subdivision-codes"/>
-    <url value="http://hl7.org/fhir/dk/core/ValueSet/dk-core-RegionalSubDivisionCodes"/>
+    <id value="dk-core-RegionalSubDivisionCodes"/>
+    <url value="http://hl7.dk/fhir/core/ValueSet/dk-core-RegionalSubDivisionCodes"/>
     <version value="0.0.1"/>
     <name value="RegionalSubdivisionCodes"/>
     <status value="draft"/>

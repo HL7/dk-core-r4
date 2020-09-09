@@ -1,6 +1,6 @@
 <NamingSystem xmlns="http://hl7.org/fhir">
-  <id value="cpr" />
-  <url value="http://hl7.org/fhir/dk/core/NamingSystem/dk-core-cpr"/>
+  <id value="dk-core-cpr" />
+  <url value="http://hl7.dk/fhir/core/NamingSystem/dk-core-cpr"/>
   <name value="Danish civil registration system - CPR" />
   <status value="active" />
   <kind value="identifier" />

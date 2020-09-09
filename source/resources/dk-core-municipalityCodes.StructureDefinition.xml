@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
   <id value="dk-core-municipalityCodes" />
-  <url value="http://hl7.org/fhir/dk/core/StructureDefinition/dk-core-municipalityCodes" />
+  <url value="http://hl7.dk/fhir/core/StructureDefinition/dk-core-municipalityCodes" />
   <name value="MunicipalityCodes" />
   <title value="Danish Core Municipality codes" />
   <status value="draft" />

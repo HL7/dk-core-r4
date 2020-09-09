@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
-  <url value="http://hl7.dk/fhir/StructureDefinition/dk-core-sor-identifier" />
+  <url value="http://hl7.dk/fhir/core/StructureDefinition/dk-core-sor-identifier" />
   <name value="SORIdentifier" />
   <status value="draft" />
   <fhirVersion value="4.0.0" />

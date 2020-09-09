@@ -25,7 +25,7 @@
     }
   ],
   "content": "complete",
-  "url": "http://hl7.dk/fhir/CodeSystem/dk-marital-status",
+  "url": "http://hl7.dk/fhir/core/CodeSystem/dk-marital-status",
   "description": "DK marital statuses",
   "status": "active",
   "resourceType": "CodeSystem",
